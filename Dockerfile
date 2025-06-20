@@ -47,5 +47,8 @@ COPY --from=builder /app/.next/static ./.next/static
 # The Next.js app is configured to run on port 3003
 EXPOSE 3003
 
+# Set the port for the Next.js server
+ENV PORT=3003
+
 # Start the Next.js server
 CMD ["node", "server.js"]

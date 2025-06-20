@@ -87,7 +87,7 @@ export default function TrainingPage() {
           <div className="mb-10">
             <h2 className="text-2xl font-bold mb-6">Program Investment</h2>
             <p className="text-lg mb-4">
-              Our 6-Week Puppy Imprinting Program is $2,000.
+              Our 6-Week Puppy Imprinting Program is $4,200 plus the cost of vetting and professional grooming.
             </p>
             <p className="mb-6">
               This includes all six training sessions, training materials, and follow-up support. 
@@ -112,9 +112,10 @@ export default function TrainingPage() {
           
           <div className="text-sm text-gray-600 italic">
             <p>
-              Note: The Puppy Imprinting Program is available to all puppy owners, whether you purchased your 
-              puppy from Two Sisters Ranch or another reputable breeder. The program is most effective when started 
-              between 8-16 weeks of age.
+              Note: The Puppy Imprinting Program not open to puppies from other breeders. 
+              Puppy training is offered to a max of 3 pups per litter and is offered on a first come first serve basis. 
+              The program is most effective when started between 8-16 weeks of age. 
+              Puppy training also covers desensitization to grooming and many community outings.
             </p>
           </div>
         </div>

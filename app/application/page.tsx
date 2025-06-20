@@ -121,7 +121,7 @@ export default function ApplicationPage() {
               
               <div className="bg-gray-50 p-6 rounded-lg border border-gray-200 mb-8">
                 <h3 className="text-xl font-semibold mb-4">Newfoundland Doodle Puppies</h3>
-                <p className="mb-4">Our puppies are priced at <strong>$4,000</strong> which includes:</p>
+                <p className="mb-4">Our puppies are priced from <strong>$3,000 - $3,500</strong> which includes:</p>
                 <ul className="list-disc pl-5 space-y-2 mb-6">
                   <li>Health guarantee</li>
                   <li>Initial vaccinations</li>
