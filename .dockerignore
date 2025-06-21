@@ -5,17 +5,18 @@
 .gitignore
 
 # Node modules - these are installed within the Docker image
-node_modules
+**/node_modules
 
 # Next.js build artifacts - these are generated within the Docker image
-.next
+.next/
 
 # Local environment files - use Docker's env_file or build args instead
 .env*.local
 .env
+.env.example
 
-# PNPM files (if any specific ones need ignoring, add here)
-# pnpm-debug.log
+# Redundant directories from old structure
+website/
 
 # OS-specific files
 .DS_Store
